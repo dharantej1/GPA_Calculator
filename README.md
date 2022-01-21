@@ -1,2 +1,2 @@
-# SGPA_Calculator
-Instantly Calculate the SGPA of University Results
+# GPA_Calculator
+Instantly Calculate the GPA of University Results
