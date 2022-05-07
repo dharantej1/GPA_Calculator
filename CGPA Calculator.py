@@ -23,4 +23,5 @@ print("The CGPA of all the semesters till",semesters[nos-1],":",calculate_CGPA(n
 print("=========================================================")
 print("*****Application Developed by Pusthakala Dharan Tej******")
 print("############### github id : dharantej1 ##################")
+print("######## Thank You ",name," for using this App! ########")
 print("=========================================================")
